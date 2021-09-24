@@ -9,6 +9,8 @@ Face verification is related to validate a claimed identity based on the image o
 ### 2- Face Recognition: 
 Face Recognition has to be compared with all the registered persons to recognize who is this person (one-to-many matching problem). 
 
+## Content
+
 ## Datasets
 5 Celebrity Faces Dataset : https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset.
 

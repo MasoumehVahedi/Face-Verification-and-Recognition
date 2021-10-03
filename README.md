@@ -10,7 +10,9 @@ Face verification is related to validate a claimed identity based on the image o
 Face Recognition has to be compared with all the registered persons to recognize who is this person (one-to-many matching problem). 
 
 ## Content
-
+In this case, in order to face verification, I have done two method:
+1- "faceverification.py" : the pre-trained FaceNet model was used.
+2- "faceverification.py" in FaceVerificationWithDlib folder: using dlib library and distance function, I have done a good result to verify images.
 ## Datasets
 5 Celebrity Faces Dataset : https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset.
 
